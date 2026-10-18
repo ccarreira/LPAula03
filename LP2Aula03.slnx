@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="CityManager1/CityManager1.csproj" />
+  <Project Path="GameInterfaces/GameInterfaces.csproj" />
 </Solution>
